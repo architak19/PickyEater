@@ -15,3 +15,7 @@ placeholder="Search restaurants, cafes, diners..."
 <button>Search</button>
 
 
+<form method="GET" action="https://api.yelp.com/v3/businesses/search">
+Search yelp: <input type="text" name="q" placeholder="Search yelp"/>
+<input type="submit" value="Search"/>
+</form>
