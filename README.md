@@ -12,3 +12,12 @@ This site was built using [Yelp API](https://cors-anywhere.herokuapp.com/https:/
 
 <button>Search</button>
 
+
+
+
+<label for="https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search">Search the site:</label>
+<input type="search" id="https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search" name="q"
+       aria-label="Search through site content">
+
+<button>Search</button>
+
