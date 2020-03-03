@@ -3,6 +3,6 @@
 ###### The smallest heading
 
 
-This site was built using [Yelp API](https://api.yelp.com/v3/businesses/search).
+This site was built using [Yelp API](https://cors-anywhere.herokuapp.com/https://api.yelp.com/v3/businesses/search).
 
 <SearchBox placeholder="Search corruption cases..." />
