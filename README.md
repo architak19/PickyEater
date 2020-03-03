@@ -8,6 +8,7 @@ This site was built using [Yelp API](https://cors-anywhere.herokuapp.com/https:/
 
 <label for="site-search">Search the site:</label>
 <input type="search" id="site-search" name="q"
+placeholder="Search the site..."
        aria-label="Search through site content">
 
 <button>Search</button>
