@@ -14,3 +14,4 @@ This site was built using [Yelp API](https://cors-anywhere.herokuapp.com/https:/
        aria-label="Search through site content">
        <input type="submit" value="search">
 </form>
+
