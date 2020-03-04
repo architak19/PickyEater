@@ -30,13 +30,13 @@
     </script>
   </head>
   <body>
-    <h1>Open the console to see the fun</h1>
-    <form method="get" action="https://api.yelp.com/v3/businesses/search"> 
+    <h1>Time to make a decision!</h1>
+    <form id="my_form"> 
        <label for="site-search">Search the site:</label>
        <input type="search" id="site-search" name="q"
        placeholder="Search restaurants, cafes, diners..."
        aria-label="Search through site content">
-       <input type="submit" value="search">
+       <input type="button" id="submit_button" value="search">
 </form>
   </body>
 </html>
