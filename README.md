@@ -22,11 +22,13 @@
                       textStatus, ', errorThrown = ', errorThrown)
         }
       }
+      $("#submit_button").click(function(e) {
       $.ajax(requestObj)
         .done(function(response) {
           console.log('typeof response = ' + typeof response)
           console.log('response = ', response)
         })
+      }
     </script>
   </head>
   <body>
